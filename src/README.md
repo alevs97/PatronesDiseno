@@ -1,11 +1,11 @@
-# Descripcion de la carpeta __ src __
+# Descripcion de la carpeta _src_
 <br>
-La siguiente carpeta se encuentran ejemplos de los siguientes * Patrones de diseno * .
-_ Patrones de diseno creacionales: _
+La siguiente carpeta se encuentran ejemplos de los siguientes *Patrones de diseno* .
+_Patrones de diseno creacionales:_
   * FactoryMethod
   * Builder
   * Singleton
-_ Patrones de diseno estructurales: _
+_Patrones de diseno estructurales:_
   * Adapter
   * Decorator
   * Facade
